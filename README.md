@@ -10,6 +10,7 @@
 I build scalable backend systems and occasionally dabble in hardware projects that bridge the physical and digital worlds. When I'm not architecting cloud infrastructure, you'll find me converting vintage keypads into USB controllers or building APIs for board games.
 
 ### 💡 Current Focus
+
 - Cloud-native application development (AWS, Node.js)
 - RESTful API design & implementation
 - Project management systems
@@ -19,26 +20,42 @@ I build scalable backend systems and occasionally dabble in hardware projects th
 
 ## 🎯 Featured Projects
 
-### 🎮 [Downforce Backend](https://github.com/mattrencher/downforce-backend)
+### � [SubScene - Punk Rock Archive](https://github.com/mattrencher/subscene)
+
+A digital archive preserving the history of my local punk rock scene through photographs, videos, writings, audio recordings, and other media. Full-stack web app with admin panel, authentication, and media management.
+
+```
+TypeScript | React | Supabase | Azure
+```
+
+### �🎮 [Downforce Backend](https://github.com/mattrencher/downforce-backend)
+
 Node.js/Express API powering a web-based racing board game. Real-time game state management meets strategic gameplay.
+
 ```
 JavaScript | REST API
 ```
 
 ### 🏗️ [RenchTech](https://github.com/mattrencher/renchtech)
+
 Full-featured project management platform built with Node.js/Express. User authentication, community features, and collaborative workspaces.
+
 ```
 EJS | MongoDB | Express
 ```
 
 ### ⌨️ [Vintage Numberpad Conversion](https://github.com/mattrencher/Vintage-Numberpad-Conversion)
-Breathing new life into vintage Mac hardware. Custom firmware to convert classic keypads into modern USB devices compatible with Windows.
+
+Breathing new life into vintage Mac hardware. Custom firmware to convert classic keypads into modern USB devices compatible with Windows/Mac/Linux.
+
 ```
 C++ | Hardware | USB Protocol
 ```
 
 ### 🎤 [SoundCloud Rap Name Generator](https://github.com/mattrencher/Soundcloud-Rap-Name-Generator)
+
 Android app that generates creative rap names using algorithmic combinations. Because every aspiring artist needs their cloud rap persona.
+
 ```
 Java | Android
 ```
@@ -89,4 +106,3 @@ Java | Android
   **💬 Let's connect and build something awesome together!**
   
 </div>
-
