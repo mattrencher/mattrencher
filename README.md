@@ -20,7 +20,7 @@ I build scalable backend systems and occasionally dabble in hardware projects th
 
 ## 🎯 Featured Projects
 
-### � [SubScene - Punk Rock Archive](https://github.com/mattrencher/subscene)
+### 🎸 [SubScene - Punk Rock Archive](https://github.com/mattrencher/subscene)
 
 A digital archive preserving the history of my local punk rock scene through photographs, videos, writings, audio recordings, and other media. Full-stack web app with admin panel, authentication, and media management.
 
@@ -28,7 +28,7 @@ A digital archive preserving the history of my local punk rock scene through pho
 TypeScript | React | Supabase | Azure
 ```
 
-### �🎮 [Downforce Backend](https://github.com/mattrencher/downforce-backend)
+### 🎮 [Downforce Backend](https://github.com/mattrencher/downforce-backend)
 
 Node.js/Express API powering a web-based racing board game. Real-time game state management meets strategic gameplay.
 
