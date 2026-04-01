@@ -103,6 +103,6 @@ I'm passionate about building production systems with AI integration, scalable b
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mattrencher&color=blueviolet&style=flat-square)
   
-  **💼 Open to new opportunities | 💬 Let's connect!**
+  **💼 Open to new opportunities | 💬 [Let's connect!](mailto:renchtechnology@gmail.com)**
   
 </div>
